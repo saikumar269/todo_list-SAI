@@ -1,4 +1,3 @@
 this is sai's todo list
 
-this is gnani ----- sai
-
+this is gnani ----- gnani
